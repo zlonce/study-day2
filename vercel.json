@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/", "dest": "/day2-1.html" }
+    { "src": "/", "dest": "/day2.html" }
   ]
 }
